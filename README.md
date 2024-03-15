@@ -17,13 +17,3 @@ Task 2: Process the data
 Task 3: Build the NMT model
 Task 4: Train the NMT model
 Task 5: Evaluate the NMT model
-*Note: the details of each of the above task are elaborated in various parts of this stub code.
-
-How to read this stub code file and solve this assignment
-All the tasks and details around how to perform them are mentioned in detail in this stub code file.
-
-You need to go through the instructions mentioned as 'comments' in the stub code file and add a code where there is a --- given or where it would be mentioned as 'fill this'.
-
-To understand the complete flow of that particular section and it's sub-tasks, scroll through the table of contents section in the left tab of this stub code file.
-
-In case, for any existing part of code, or for something already written, you may or may not modify it, as long as you are serving the purpose of the task required in that section.
